@@ -27,6 +27,11 @@ This project is inspired by **real-world networking checks** that security profe
 
 ---
 
+## Screenshot
+
+![Network Inspector Output](images/network_output.png)
+
+
 ##  How to Run
 
 1. Clone the repository:
